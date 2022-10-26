@@ -1,0 +1,32 @@
+{
+  "entities": [
+    {
+      "sifra": "0-1",
+      "vrsta": 1,
+      "tip": 1,
+      "id": 1,
+      "naziv": "Učitelj povjesti"
+    },
+    {
+      "sifra": "0-2",
+      "vrsta": 2,
+      "tip": 2,
+      "id": 2,
+      "naziv": "Učitelj matematike"
+    },
+    {
+      "sifra": "0-3",
+      "vrsta": 3,
+      "tip": 3,
+      "id": 3,
+      "naziv": "Učitelj fizike"
+    },
+    {
+      "sifra": "0-4",
+      "vrsta": 4,
+      "tip": 4,
+      "id": 4,
+      "naziv": "Učitelj kemije"
+    }
+  ]
+}

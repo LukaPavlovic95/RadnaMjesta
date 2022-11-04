@@ -5,28 +5,47 @@
       "vrsta": 1,
       "tip": 1,
       "id": 1,
-      "naziv": "Učitelj povjesti"
+      "naziv": "Ravnatelj"
     },
     {
       "sifra": "0-2",
       "vrsta": 2,
       "tip": 2,
       "id": 2,
-      "naziv": "Učitelj matematike"
+      "naziv": "Pedagog"
     },
     {
       "sifra": "0-3",
       "vrsta": 3,
       "tip": 3,
       "id": 3,
-      "naziv": "Učitelj fizike"
+      "naziv": "Učitelj razredne nastave"
     },
     {
       "sifra": "0-4",
       "vrsta": 4,
       "tip": 4,
       "id": 4,
-      "naziv": "Učitelj kemije"
-    }
+      "naziv": "Učitelj hrvatskog jezika i književnosti"
+    },
+	  {
+      "sifra": "0-5",
+      "vrsta": 5,
+      "tip": 5,
+      "id": 5,
+      "naziv": "Učitelj matematike"
+    },  {
+      "sifra": "0-6",
+      "vrsta": 6,
+      "tip": 6,
+      "id": 6,
+      "naziv": "Učitelj fizike"
+    },  {
+      "sifra": "0-7",
+      "vrsta": 7,
+      "tip": 7,
+      "id": 7,
+      "naziv": "Učitelj engleskog jezika"
+    } 
   ]
 }
